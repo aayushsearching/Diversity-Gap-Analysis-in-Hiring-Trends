@@ -1,0 +1,36 @@
+DIVERSITY GAP ANALYSIS REPORT
+----------------------------------
+
+Distribution for gender:
+Male: 50.00%
+Female: 50.00%
+
+Hiring Rates for gender:
+Female: 0.600
+Male: 0.400
+
+Disparity Levels for gender:
+Female: 1.000
+Male: 0.667
+
+----------------------------------
+
+Distribution for race:
+White: 30.00%
+Asian: 30.00%
+Black: 30.00%
+Hispanic: 10.00%
+
+Hiring Rates for race:
+Asian: 0.333
+Black: 0.333
+Hispanic: 0.000
+White: 1.000
+
+Disparity Levels for race:
+Asian: 0.333
+Black: 0.333
+Hispanic: 0.000
+White: 1.000
+
+----------------------------------

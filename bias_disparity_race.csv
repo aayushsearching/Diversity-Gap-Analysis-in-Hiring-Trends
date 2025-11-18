@@ -1,0 +1,5 @@
+group,hiring_rate,relative_to_best
+Asian,0.333,0.333
+Black,0.333,0.333
+Hispanic,0.0,0.0
+White,1.0,1.0

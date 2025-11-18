@@ -1,0 +1,11 @@
+candidate_id,gender,race,education_level,experience_years,hired,salary_expected,_source_file,_rows
+1,Male,White,Bachelor,3,1,60000,raw_hiring.csv,10
+2,Female,Asian,Master,2,0,55000,raw_hiring.csv,10
+3,Male,Black,Bachelor,1,0,52000,raw_hiring.csv,10
+4,Female,White,PhD,4,1,72000,raw_hiring.csv,10
+5,Male,Asian,Bachelor,5,1,65000,raw_hiring.csv,10
+6,Female,Black,Master,3,0,58000,raw_hiring.csv,10
+7,Male,Hispanic,Bachelor,2,0,54000,raw_hiring.csv,10
+8,Female,White,Master,6,1,75000,raw_hiring.csv,10
+9,Male,Asian,Bachelor,1,0,51000,raw_hiring.csv,10
+10,Female,Black,Bachelor,4,1,69000,raw_hiring.csv,10
