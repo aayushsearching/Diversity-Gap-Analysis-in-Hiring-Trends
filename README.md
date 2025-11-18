@@ -1,7 +1,3 @@
-Here is a **clean, professional, GitHub-ready `README.md`** for your project.
-You can copy–paste it directly into your repository.
-
----
 
 # **Diversity Gap Analysis in Hiring Trends**
 
@@ -164,4 +160,5 @@ This project helps organizations:
 ## **📜 License**
 
 MIT License — free to use and modify.
+
 
